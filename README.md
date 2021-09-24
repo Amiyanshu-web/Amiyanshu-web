@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Amiyanshu-web
 - 👀 I’m interested in web-development
 - 🌱 I’m currently learning react-js
+- ✨ IIT BHU,Varanasi
 
 <!---
 Amiyanshu-web/Amiyanshu-web is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
