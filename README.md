@@ -15,8 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/amiyanshu ." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amiyanshu ." height="30" width="40" /></a>
-<a href="https://fb.com/amiyanshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="amiyanshu" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/amiyanshu-024818193/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amiyanshu ." height="30" width="40" /></a>
+<a href="https://www.facebook.com/amiyanshu.kumar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="amiyanshu" height="30" width="40" /></a>
 <a href="https://instagram.com/amiyanshu__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amiyanshu__" height="30" width="40" /></a>
 </p>
 
