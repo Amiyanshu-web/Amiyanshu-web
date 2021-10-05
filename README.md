@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **my life.**
 
-- 👨‍💻 I love [photography and photo-manipulation.](photography and photo-manipulation.)
+- 👨‍💻 I love photography and photo-manipulation.
 
 - 💬 Ask me about **react**
 
