@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amiyanshu</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amiyanshu-web&label=Profile%20views&color=0e75b6&style=flat" alt="amiyanshu-web" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amiyanshu-web&label=Profile%20views&color=blueviolet&style=flat" alt="amiyanshu-web" /> </p>
 
 - 🌱 I’m currently learning **competitive programming.**
 
