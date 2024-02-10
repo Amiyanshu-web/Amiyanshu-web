@@ -45,7 +45,7 @@
 <h1>GitHub Stats! 📊</h1>
 <Br>
   
-[![Amiyanshu's github stats](https://github-readme-stats.vercel.app/api?username=Amiyanshu-web&show_icons=true&theme=merko)](https://github.com/Amiyanshu-web/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amiyanshu-web&layout=compact&theme=merko)](https://github.com/Amiyanshu-web/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amiyanshu-web&layout=compact&theme=merko)](https://github.com/Amiyanshu-web/github-readme-stats)
 
 <Br>
 <hr>
